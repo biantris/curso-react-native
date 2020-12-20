@@ -1,0 +1,15 @@
+==>Conceitos API REST<==
+
+As Rotas utilizam métodos http:
+
+GET -> http://minhaapi.com/users
+
+POST -> http://minhaapi.com/users
+
+PUT -> http://minhaapi.com/users/1
+
+DELETE -> http://minhaapi.com/users/1
+
+MÉTODO HTTP
+RECURSO/ROTA
+PARÂMETRO
